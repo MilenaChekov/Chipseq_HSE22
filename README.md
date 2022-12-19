@@ -35,6 +35,8 @@
 <img width="916" alt="Снимок экрана 2022-12-19 в 23 49 17" src="https://user-images.githubusercontent.com/60537367/208520442-89bfe234-772d-465c-9df5-20a90b56ff09.png">
 а также вот с кем он взаимодействует еще
 
+судя по всему, функция белка - участие в углеводном обмене
+
 результаты:
 ![image](https://user-images.githubusercontent.com/60537367/208517904-3e530791-d2ef-4603-b080-666c175107a1.png)
 <img width="580" alt="Снимок экрана 2022-12-19 в 23 44 16" src="https://user-images.githubusercontent.com/60537367/208517966-84955b96-77a5-4c39-bc89-9964fae5cee7.png">
